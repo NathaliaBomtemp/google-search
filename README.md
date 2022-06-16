@@ -21,6 +21,7 @@ Then open the Cypress and run the Specs, with:
 `npx cypress open`
 
 ### Scenario run
+[![Google Search Run](https://res.cloudinary.com/marcomontalbano/image/upload/v1655417994/video_to_markdown/images/youtube--F1iKngEI_3M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=F1iKngEI_3M "Google Search Run")
 
 ## Author
 <table align="center">
