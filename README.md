@@ -22,10 +22,6 @@ Then open the Cypress and run the Specs, with:
 
 ### Scenario run
 
-https://user-images.githubusercontent.com/70415844/174170799-f02f75f3-fbd3-48a2-9f2a-fc2049e7415e.mp4
-
-
-
 ## Author
 <table align="center">
     <tr>
