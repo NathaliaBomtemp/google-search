@@ -11,7 +11,7 @@ describe("Google Search", () => {
     cy.get(".gLFyf").type("Trustly");
   });
   
-  //Click on "Google Search" button and validate the results
+  //Click on "Google Search" button
   it("Click on 'Google Search'", () => {
     cy.get('input').contains('Pesquisa Google').click();
   });
