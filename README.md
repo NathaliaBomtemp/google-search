@@ -1,4 +1,4 @@
-## Google Search
+## Google Search Automation
 This repository includes an automation of a Google search, with **Cypress + JavaScript** as technology.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
