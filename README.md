@@ -20,7 +20,7 @@ Then open the Cypress and run the Specs, with:
 
 `npx cypress open`
 
-### Scenario run
+### Scenario Run
 ![gifgoogle](https://user-images.githubusercontent.com/70415844/174197192-6e07336e-6569-4bae-9cd0-7c4f82a3947b.gif)
 
 
